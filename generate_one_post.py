@@ -23,7 +23,7 @@ from PIL import Image, ImageDraw, ImageFont
 # ---------------- CONFIG ----------------
 FILE_PATH = "linkedin_posting_calendar.xlsx"
 IMAGE_DIR = "images"
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "YOUR_API_KEY"
 TEXT_MODEL = "openai/gpt-3.5-turbo"
 IMAGE_MODEL = "stability-ai/stable-diffusion-xl"
 MAX_RETRIES = 2
